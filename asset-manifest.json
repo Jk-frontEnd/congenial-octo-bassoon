@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/congenial-octo-bassoon/static/css/main.5d572082.css",
-    "main.js": "/congenial-octo-bassoon/static/js/main.4575c500.js",
+    "main.css": "/congenial-octo-bassoon/static/css/main.1f0fa442.css",
+    "main.js": "/congenial-octo-bassoon/static/js/main.1c109d44.js",
     "index.html": "/congenial-octo-bassoon/index.html",
-    "main.5d572082.css.map": "/congenial-octo-bassoon/static/css/main.5d572082.css.map",
-    "main.4575c500.js.map": "/congenial-octo-bassoon/static/js/main.4575c500.js.map"
+    "main.1f0fa442.css.map": "/congenial-octo-bassoon/static/css/main.1f0fa442.css.map",
+    "main.1c109d44.js.map": "/congenial-octo-bassoon/static/js/main.1c109d44.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d572082.css",
-    "static/js/main.4575c500.js"
+    "static/css/main.1f0fa442.css",
+    "static/js/main.1c109d44.js"
   ]
 }
